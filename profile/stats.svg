@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+        width="400" height="310"
+        viewBox="0 0 400 310">
+
+        <rect width="400" height="310"
+              rx="12" fill="#0d1117"
+              stroke="#30363d"/>
+
+        <text x="25" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#58a6ff">GitHub Statistics</text><text x="25" y="78" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#8b949e">Public Repositories</text><text x="285" y="78" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#c9d1d9">25</text><text x="25" y="116" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#8b949e">Followers</text><text x="285" y="116" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#c9d1d9">6</text><text x="25" y="154" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#8b949e">Following</text><text x="285" y="154" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#c9d1d9">10</text><text x="25" y="192" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#8b949e">Stars Received*</text><text x="285" y="192" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#c9d1d9">0</text><text x="25" y="230" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#8b949e">Contributions (12 months)</text><text x="285" y="230" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#c9d1d9">125</text><text x="25" y="290" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#8b949e">*Stars from the first 100 public, non-fork repositories</text>
+
+    </svg>
