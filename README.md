@@ -72,8 +72,9 @@ Some repositories are finished projects, while others are smaller experiments or
 
 <div align="center">
 
-Feel free to explore my repositories or get in touch.
+Feel free to explore my repositories or reach out on Discord.
 
 [![GitHub](https://img.shields.io/badge/GitHub-tjorgef-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tjorgef)
+[![Discord](https://img.shields.io/badge/Discord-Contact_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1163562508976660573)
 
 </div>
